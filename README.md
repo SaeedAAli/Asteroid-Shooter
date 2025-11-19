@@ -1,5 +1,6 @@
-README
 How to Run Asteroid Shooter
+
+![image alt](https://github.com/SaeedAAli/Asteroid-Shooter/blob/main/Screenshot%202025-11-19%20123023.png)
 
 📦 1. Create a New Unity Project
 
